@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559645375887",
+    "project_id": "refugedb",
+    "storage_bucket": "refugedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559645375887:android:1b72253fb93dabb1359ffa",
+        "android_client_info": {
+          "package_name": "com.megamind.refugeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZ-OPFUYm4rULqFHGOZwq7KrmNVyqrMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personel\\refugeAppDesk\\refugeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|D:\\Personel\\refugeAppDesk\\refugeApp\\refugeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\domain\\menage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\domain\\menage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\domain\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\domain\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\menageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\menageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\domain\\responsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\domain\\responsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|d:\\personel\\refugeappdesk\\refugeapp\\refugeapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F250E-D6FC-43D8-888F-B2E25299160A}|refugeApp\\refugeApp.csproj|solutionrelative:refugeapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "refugeApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.Designer.cs",
+              "RelativeToolTip": "refugeApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:51:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "refugeApp\\Form1.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.cs [Conception]",
+              "RelativeToolTip": "refugeApp\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:50:53.482Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menage.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Menage.cs",
+              "RelativeDocumentMoniker": "refugeApp\\domain\\Menage.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Menage.cs",
+              "RelativeToolTip": "refugeApp\\domain\\Menage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:41:30.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Responsable.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Responsable.cs",
+              "RelativeDocumentMoniker": "refugeApp\\domain\\Responsable.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Responsable.cs",
+              "RelativeToolTip": "refugeApp\\domain\\Responsable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:14:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Membre.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Membre.cs",
+              "RelativeDocumentMoniker": "refugeApp\\domain\\Membre.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\domain\\Membre.cs",
+              "RelativeToolTip": "refugeApp\\domain\\Membre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:20:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "refugeApp\\Form1.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\Form1.cs",
+              "RelativeToolTip": "refugeApp\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:31:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenageForm.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\MenageForm.cs",
+              "RelativeDocumentMoniker": "refugeApp\\MenageForm.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\MenageForm.cs",
+              "RelativeToolTip": "refugeApp\\MenageForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:41:24.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\HomeForm.cs",
+              "RelativeDocumentMoniker": "refugeApp\\HomeForm.cs",
+              "ToolTip": "D:\\Personel\\refugeAppDesk\\refugeApp\\refugeApp\\HomeForm.cs",
+              "RelativeToolTip": "refugeApp\\HomeForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:31:34.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
